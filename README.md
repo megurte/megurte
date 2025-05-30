@@ -2,6 +2,8 @@
 Hi, I'm Artemii (Megurt). I'm a game development programmer and currently working on Unity C#, but also have several years of commercial game development in Typescript. 
 
 During free time doing some helpful stuff to improve my and other players experience in games.
+
+Here is my games: https://megurte.itch.io/
 <!--
 **megurte/megurte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
