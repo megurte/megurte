@@ -3,16 +3,13 @@ Hi, I'm Artemii (Megurt). I'm a game development programmer and currently workin
 
 During free time doing some helpful stuff to improve my and other players experience in games.
 
-<p align="center">
-### 🎮 My games
-</p>
+<h3 align="center">🎮 My games</h3>
 
 <p align="center">
 <a href="https://megurte.itch.io">
   <img src="https://img.shields.io/badge/itch.io-games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
 </a>
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ninpl/ninpl/raw/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ninpl/ninpl/raw/output/github-snake.svg">
