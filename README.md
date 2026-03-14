@@ -1,7 +1,9 @@
 
-Hi, I'm Artemii (Megurt). I'm a game development programmer and currently working on Unity C#, but also have several years of commercial game development in Typescript. 
+Hi, I'm **Artemii (Megurt)**. I'm a game development programmer currently working with **Unity / C#**, and I also have several years of commercial game development experience with **TypeScript**.
+In sum 5+ years in gamedev.
 
-During free time doing some helpful stuff to improve my and other players experience in games.
+In my free time I build tools, plugins and small projects to improve my own — and other players’ — experience in games.
+I'm also indie developer and working on my own projects for steam and itch.io
 
 <h3 align="center">🎮 My games</h3>
 
