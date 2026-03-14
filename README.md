@@ -4,6 +4,15 @@ Hi, I'm Artemii (Megurt). I'm a game development programmer and currently workin
 During free time doing some helpful stuff to improve my and other players experience in games.
 
 Here is my games: https://megurte.itch.io/
+
+***
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RimuruDev&theme=blood-dark" alt="mystreak"/>
+</p>
+
+***
+
 <!--
 **megurte/megurte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
